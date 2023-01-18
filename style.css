@@ -150,7 +150,6 @@ html {
   flex-wrap: wrap;
   justify-content: center;
   background-color: #f4f4f4;
-  flex-grow: 600px;
 }
 .restaurants__card {
   background-color: #fff;

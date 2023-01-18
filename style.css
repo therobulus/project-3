@@ -219,7 +219,7 @@ html {
 .restaurants__card .heart-container .heart__icon--full:hover {
   opacity: 100%;
   transition-duration: 1500ms;
-  scale: 0.9;
+  transform: scale(0.9);
 }
 
 .footer-container {
